@@ -1,0 +1,2 @@
+Movi esta extension la descomente:
+extension=intl
